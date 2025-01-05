@@ -1,0 +1,9 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+*.log
+
+# Build files
+frontend/build/
+backend/build/
