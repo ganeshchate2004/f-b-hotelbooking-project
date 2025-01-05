@@ -38,8 +38,7 @@ Ensure the following software/tools are installed on your system:
 
 ### Step 1: Clone the Repository
 ```bash
-https://github.com/ganeshchate2004/hotelbooking--frontend-backend.git
-cd hotelbooking
+
 cd frontend
 npm install
 
@@ -51,6 +50,6 @@ npm install
 This project was developed by Ganesh Chate.
 GitHub: Ganesh Chate
 Feel free to reach out for any queries or contributions! 
-Mob:  9322440198 
+email:ganeshchate2004@gmail.com
 
 
